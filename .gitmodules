@@ -1,0 +1,3 @@
+[submodule "frontend"]
+  path = frontend
+  url = <URL_DEL_REPOSITORIO_DEL_SUBMODULO>
